@@ -1,12 +1,19 @@
 ------------------------------------------------------------------------------------------------------
-🎯PROJET ARCHITECTURE SI
+🎯Atelier “Testing as Code & API Monitoring”
 ------------------------------------------------------------------------------------------------------
-Pitch de l'atelier.  
-
-**Architecture cible**  
-
-![Screenshot Actions](Architecture_cible.png)  
-
+Aujourd’hui, vous allez passer du rôle de développeur au rôle d’ingénieur qualité.  
+  
+Internet est rempli d’API publiques : météo, devises, citations, géolocalisation, données statistiques…
+Mais une API, ce n’est pas juste une URL qui répond. C’est un service.
+Et un service doit être fiable, mesurable et surveillé.  
+  
+Votre mission :  
+  
+👉 Choisir une API publique.  
+👉 Concevoir et implémenter une solution d’automatisation des tests.  
+👉 Déployer votre solution sur PythonAnywhere.  
+👉 Mesurer et exposer des indicateurs de qualité de service.    
+  
 -------------------------------------------------------------------------------------------------------
 🧩 Séquence 1 : GitHUB
 -------------------------------------------------------------------------------------------------------
@@ -45,37 +52,16 @@ Pour cet atelier, **vous avez 4 secrets à créer** dans votre Repository GitHUB
 
 Notions acquises de cette séquence :  
 Vous avez vu dans cette séquence comment créer des secrets GiHUB afin de mettre en place de l'industrialisation continue.   
-
----------------------------------------------------
-🗺️ Séquence 4 : Mise en service
----------------------------------------------------
-Objectif : ...  
-Difficulté : Faible (~10 minutes)
----------------------------------------------------
-   
-
----------------------------------------------------
-🔹 Séquence 5 : Exercices
----------------------------------------------------
-Objectif : Travailler..  
-Difficulté : Moyenne (~60 minutes)
----------------------------------------------------
-**Exercice 1 : Création d'une nouvelle fonctionnalité**    
-Créer une nouvelle route dans votre application afin de faire une recherche sur la base du nom d'un client.  
-Cette fonctionnalité sera accéssible via la route suivante : **/fiche_nom/**  
-
-**Exercice 2 : Protection**  
-Cette nouvelle route "/fiche_nom/" est soumise à un contrôle d'accès User. C'est à dire différent des login et mot de passe administrateur.  
-Pour accéder à cette fonctionnalité, l'utilisateur sera authentifié sous les login et mot de passe suivant : **user/12345**
   
 ---------------------------------------------------
-🔹 Séquence 6 : Atelier
+🔹 Séquence 4 : Atelier
 ---------------------------------------------------
-Objectif : Créer une application de biliothèque  
-Difficulté : Moyenne (~180 minutes)
+Objectif : Travailler sur l'automatisation de vos tests  
+Difficulté : Moyenne (~120 minutes)
 ---------------------------------------------------
-...  
-
+**Consignes : Retrouvez les consignes de votre atelier sur votre site pythonanywhere**    
+Vous pouvez retrouver le travail demandé dans le cadre de cet atelier directement sur votre site pythonanywhere (ex: monuser.pythonanywhere.com).    
+   
 --------------------------------------------------------------------
 🧠 Troubleshooting :
 ---------------------------------------------------
